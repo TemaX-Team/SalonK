@@ -1,4 +1,4 @@
-namespace SalonK_Backend
+namespace backend
 {
     public class WeatherForecast
     {
